@@ -1,0 +1,17 @@
+{
+  "name": "fls-gulp",
+  "version": "1.0.0",
+  "description": "сборка gulp ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fls",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  }
+}
